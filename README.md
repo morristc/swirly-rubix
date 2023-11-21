@@ -1,2 +1,2 @@
-# swirly-rubix
+# thomas-morris
 My online portfolio
