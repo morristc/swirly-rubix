@@ -18,3 +18,11 @@ img {
     width: 200px;
     height: 250px;
 }
+
+#mainContactTitle {
+    text-align: center;
+}
+
+#mainContactInfo {
+    text-align: center;
+}
