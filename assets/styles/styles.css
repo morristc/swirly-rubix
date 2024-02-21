@@ -26,6 +26,11 @@ img {
 #mainContactInfo {
     text-align: center;
 }
+
 #summary {
     text-align: center;
+}
+
+#experienceTitle {
+    font-weight: bold;
 }
